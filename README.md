@@ -2,4 +2,4 @@
 
 Solucion de los Bloques
 
-![darth-vader](./darth-block.png)
+![darth-vader](./darth-blocks.png)
